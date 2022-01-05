@@ -8,6 +8,7 @@ body{
 }
 section{
     display: flex;
+    margin-top: 50px;
 }
 .half-width{
     width: 50%;
